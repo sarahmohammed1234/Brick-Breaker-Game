@@ -9,6 +9,7 @@ Brick Breaker game consists of bricks aligned at the top of the screen. The play
 ## References 
 
 https://devpost.com/software/simple-brick-breaker-game
+
 https://youtu.be/asOw_NRdKTQ
 
 Game developer's GitHub page: 
